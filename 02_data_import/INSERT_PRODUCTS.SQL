@@ -1,0 +1,16 @@
+INSERT INTO products (product_name, category, price) VALUES
+ ('Laptop Pro 15', 'Electronics', 1200.00),
+ ('Wireless Mouse', 'Electronics', 25.50),
+ ('Mechanical Keyboard', 'Electronics', 80.00),
+ ('Monitor 27 inch', 'Electronics', 350.00),
+ ('Office Chair', 'Furniture', 150.00),
+ ('Desk Lamp', 'Furniture', 45.00),
+ ('Coffee Maker', 'Appliances', 60.00),
+ ('Electric Kettle', 'Appliances', 30.00),
+ ('Smartphone X', 'Electronics', 800.00),
+ ('Headphones Noise Cancelling', 'Electronics', 200.00),
+ ('Bookshelf', 'Furniture', 120.00),
+ ('Air Purifier', 'Appliances', 180.00),
+ ('Toaster Elite', 'Appliances', 40.00),
+ ('Gaming Pad', 'Electronics', 35.00),
+ ('Standing Desk', 'Furniture', 450.00);
