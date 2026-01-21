@@ -1,0 +1,24 @@
+# Системні файли Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Python & Jupyter Notebooks
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints
+.virtual_envs/
+venv/
+env/
+.env
+
+# Великі файли даних (щоб не перевищити ліміти GitHub)
+*.csv
+*.xlsx
+*.sqlite
+*.zip
+*.tar.gz
+
+# Якщо якісь дані все ж треба пушити, створіть папку data/ і додайте виключення
+# !data/small_sample.csv
