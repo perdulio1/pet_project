@@ -1,4 +1,4 @@
-Retail Sales Analytics: Business Intelligence with SQL
+# Retail Sales Analytics: Business Intelligence with SQL
 
  Огляд проєкту
  --
