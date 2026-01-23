@@ -11,10 +11,10 @@ Database: PostgreSQL (Cloud-native via NeonDB)
 Environment: Visual Studio Code
 SQL Mastery: CTE (Common Table Expressions), Window Functions, Multi-level Joins, Aggregations, Database Views.
 
+Схема бази даних (ERD):
+
 <img src="results/ERD.jpg" width="1000" alt="">
 
-Схема бази даних (ERD) 
-  
 База побудована за принципами нормалізації (3NF) для забезпечення цілісності даних.
 
 users: Географічні та реєстраційні дані.products:
@@ -46,7 +46,7 @@ order_items: Склад кошика зі збереженням історич�
 
 4. Комплексна RFM-сегментація бази
 Кластерування клієнтів опиаючись на Recency, Frequency та Monetary.
-<img src="results/047_result.jpg" width="1000" alt="Query Result">
+<img src="results/047_Result.jpg" width="1000" alt="Query Result">
 
  Структура репозиторію
  
